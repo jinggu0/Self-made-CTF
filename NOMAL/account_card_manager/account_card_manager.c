@@ -1,5 +1,6 @@
 // Name: account_card_manager.c
 // Compile: gcc account_card_manager.c -o account_card_manager
+// Build environment: Ubuntu 18.04
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
